@@ -1,0 +1,21 @@
+{
+    "Game": {
+        "Activision": false,
+        "Altus": false,
+        "BandaiNamco": false,
+        "Bethesda": false,
+        "Blizzard": false,
+        "Ea": false,
+        "HoyoVerse": false,
+        "IndieGames": false,
+        "LegendOfZelda": false,
+        "SuperMario": false,
+        "Ubisoft": false,
+        "Valve": false
+    },
+    "Character": {
+        "GenshinCharacters": false,
+        "HSRCharacters": false,
+        "ZZZCharacters": false
+    }
+}
