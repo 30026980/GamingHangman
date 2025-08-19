@@ -1,21 +1,21 @@
 {
     "Game": {
-        "Activision": false,
-        "Altus": false,
-        "BandaiNamco": false,
-        "Bethesda": false,
-        "Blizzard": false,
-        "Ea": false,
-        "HoyoVerse": false,
-        "IndieGames": false,
-        "LegendOfZelda": false,
-        "SuperMario": false,
-        "Ubisoft": false,
-        "Valve": false
+        "Activision": true,
+        "Altus": true,
+        "BandaiNamco": true,
+        "Bethesda": true,
+        "Blizzard": true,
+        "Ea": true,
+        "HoyoVerse": true,
+        "IndieGames": true,
+        "LegendOfZelda": true,
+        "SuperMario": true,
+        "Ubisoft": true,
+        "Valve": true
     },
     "Character": {
-        "GenshinCharacters": false,
-        "HSRCharacters": false,
-        "ZZZCharacters": false
+        "GenshinCharacters": true,
+        "HSRCharacters": true,
+        "ZZZCharacters": true
     }
 }

@@ -38,5 +38,5 @@ def funEverything2True():
 def funEverything2False():
     for key in Settings:
         Settings[key] = False
-        
+
 funUpdatingSettings()
