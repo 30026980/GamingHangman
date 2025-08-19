@@ -16,6 +16,7 @@
     "Character": {
         "GenshinCharacters": true,
         "HSRCharacters": true,
-        "ZZZCharacters": true
+        "ZZZCharacters": true,
+        "PersonaCharacters": true
     }
 }
